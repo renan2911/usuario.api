@@ -3,7 +3,7 @@
 <!-- PROJECT SHIELDS -->
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![https://www.linkedin.com/in/renan-alysson-f/][linkedin-shield]][https://www.linkedin.com/in/renan-alysson-f/]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
   <h3 align="center"><strong>Autenticação e validação de usuário</strong></h3>
 
