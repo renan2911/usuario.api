@@ -8,7 +8,7 @@
   <h3 align="center"><strong>Autenticação e validação de usuário</strong></h3>
 
   <p align="center">
- <strong>Nesse projeto desenvolvemos uma API utilizando RESTful e outras funções que otimizam o trabalho com a tecnologia</strong>
+ <strong>Nesse projeto criei uma API utilizando RESTful e outras funções que otimizam o trabalho com a tecnologia</strong>
     <br />
     <a href="https://github.com/renan2911?tab=repositories"><strong>Veja outros programas »</strong></a>
     <br />
