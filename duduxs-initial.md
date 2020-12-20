@@ -31,7 +31,7 @@ O <strong>cursos.api</strong> foi implementado usando esses recursos.
 
 1. Clone o repositório
 ```sh
-https://github.com/NICKNAME_DO_SEU_GITHUB/NOME_DESSE_REPOSITORIO.git
+https://github.com/renan2911/usuario.api.git
 ```
 
 
