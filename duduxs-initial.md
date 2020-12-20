@@ -44,7 +44,7 @@ https://github.com/NICKNAME_DO_SEU_GITHUB/NOME_DESSE_REPOSITORIO.git
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=flat-square
-[issues-url]: https://github.com/NICKNAME_DO_SEU_GITHUB/NOME_DESSE_REPOSITORIO/issues
+[issues-url]: https://github.com/renan2911/usuario.api/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
 [license-url]: https://github.com/NICKNAME_DO_SEU_GITHUB/NOME_DESSE_REPOSITORIO/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
