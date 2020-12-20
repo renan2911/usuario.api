@@ -3,14 +3,8 @@
 <!-- PROJECT SHIELDS -->
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/renan-alysson-f/]
+[![LinkedIn][https://www.linkedin.com/in/renan-alysson-f/]
 
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <a href="URL_DO_SEU_PROJETO">
-    <img src="awesome-example.png" alt="Logo" width="937" height="368">
-  </a>
 
   <h3 align="center"><strong>Autenticação e validação de usuário</strong></h3>
 
